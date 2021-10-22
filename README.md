@@ -1,4 +1,4 @@
-# unjail-umee-1b
+# unjail-umee-1c
 Scrip unjail umee testnet chain - umeevengers-1b
 
 apt install tmux
